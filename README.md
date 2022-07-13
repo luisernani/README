@@ -21,9 +21,10 @@ luisernani87@gmail.com
 </div>
 <br>
 <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/https://github.com/luisernani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisernani&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div>
     <a href="https://www.linkedin.com/in/luis-vieira-533ab09a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
