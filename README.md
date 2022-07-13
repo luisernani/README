@@ -7,7 +7,7 @@ I'm graduated at ETEC Fernado Prestes in Sorocaba-SP, Brazil
 Feel free to email me anytime.
 luisernani87@gmail.com
 <div>
-    <a href="https://www.linkedin.com/in/luis-vieira-533ab09a/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/luis-vieira-533ab09a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## 🇧🇷 Olá, espero que você esteja ótimo!!! 😉
@@ -17,7 +17,7 @@ O meu nome é Luís Ernani S Vieira. Sou um entusiasta de tecnologia e tenho apr
 Sinta-se livre para me enviar um e-mail a qualquer momento.
 luisernani87@gmail.com
 <div>
-    <a href="https://www.linkedin.com/in/luis-vieira-533ab09a/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/luis-vieira-533ab09a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
 <div>
