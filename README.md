@@ -28,7 +28,7 @@ luisernani87@gmail.com
 </div>
 <br>
 <div>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisernani)](https://github.com/anuraghazra/github-readme-stats)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisernani-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
