@@ -28,9 +28,7 @@ luisernani87@gmail.com
 </div>
 <br>
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/luisernani=anuraghazra&layout=compact)"/>
-
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisernani&layout=compact&langs_count=7&theme=dark"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/luisernanianuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
