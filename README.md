@@ -25,6 +25,7 @@ luisernani87@gmail.com
    <img alt="html5-logo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img alt="css3-logo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
 </div>
+<hr>
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisernani&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 
