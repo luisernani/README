@@ -10,17 +10,17 @@ Meu nome é Luis Ernani e sou desenvolvedor com experiência em React, TypeScrip
 
 
 <div>
-    <i class="fa-sharp fa-solid fa-envelope"></i> luisernani87@gmail.com
+    <a href="mailto:luisernani87@gmail.com"><img src="https://example.com/email-icon.png" alt="Email icon" width="50" height="50"/></a> 
     <a href="https://www.linkedin.com/in/luis-ernani-533ab09a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
 <div>
     <p align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" height="50" width="50">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS Logo" height="50" width="50">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" height="50" width="50">        
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript Logo" height="50" width="50">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" height="50" width="50">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS Logo" height="50" width="50">        
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" height="50" width="50">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" height="50" width="50">
     </p>
 </div>
 <hr>
