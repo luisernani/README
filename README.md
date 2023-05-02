@@ -8,13 +8,11 @@ My name is Luis Ernani and I'm a developer with experience in React, TypeScript,
 Meu nome é Luis Ernani e sou desenvolvedor com experiência em React, TypeScript, JavaScript, CSS e HTML. Sou formado pela ETEC Fernando Prestes em Sorocaba-SP, e estou constantemente aprendendo e expandindo minhas habilidades. Sou apaixonado por criar software que resolva problemas do mundo real e aprimore a experiência do usuário. Meu foco é fornecer soluções de alta qualidade que atendam às necessidades do usuário e excedam as expectativas.
 
 
-
+## Contact / Contato
 <div>
     <p align="left">
-        <a href="mailto:luisernani87@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email icon" width="50" height="50"/></a> 
-    </p>    
-    <p align="left">
-        <a href="https://www.linkedin.com/in/luis-ernani-533ab09a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="mailto:luisernani87@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email icon" width="50" height="50"/></a>    
+        <a href="https://www.linkedin.com/in/luis-ernani-533ab09a/" target="_blank"><img src="https://img.shields.io/badge/-In-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </p>
 </div>
 <hr>
