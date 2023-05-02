@@ -15,7 +15,7 @@ Meu nome é Luis Ernani e sou desenvolvedor com experiência em React, TypeScrip
         <a href="https://www.linkedin.com/in/luis-ernani-533ab09a/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50"></a>
     </p>
 </div>
-<hr>
+
 ## Knowledge in / Conhecimento em
 <div>
     <p align="left">
