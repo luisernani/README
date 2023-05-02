@@ -1,20 +1,17 @@
-## 🇬🇧 Hi there, hope you are doing great!!! 😉
+## 🇬🇧 Hi there, hope you are doing great!!!
 
-My name is Luís Ernani S Vieira.
-I'm a tech enthusiast and I've been learning Web Development lately.
-I'm graduated at ETEC Fernado Prestes in Sorocaba-SP, Brazil
+My name is Luis Ernani and I'm a developer with experience in React, TypeScript, JavaScript, CSS, and HTML. I graduated from ETEC Fernando Prestes in Sorocaba-SP, and I'm constantly learning and expanding my skills. I'm passionate about creating software that solves real-world problems and enhances user experiences. My focus is on delivering high-quality solutions that meet user needs and exceed expectations.
 
-Feel free to email me anytime.
-luisernani87@gmail.com
 
-## 🇧🇷 Olá, espero que você esteja ótimo!!! 😉
+## 🇧🇷 Olá, espero que você esteja ótimo!!!
 
-O meu nome é Luís Ernani S Vieira. Sou um entusiasta de tecnologia e tenho aprendido Desenvolvimento Web ultimamente. Sou formado na ETEC Fernando Prestes em Sorocaba-SP, Brasil
+Meu nome é Luis Ernani e sou desenvolvedor com experiência em React, TypeScript, JavaScript, CSS e HTML. Sou formado pela ETEC Fernando Prestes em Sorocaba-SP, e estou constantemente aprendendo e expandindo minhas habilidades. Sou apaixonado por criar software que resolva problemas do mundo real e aprimore a experiência do usuário. Meu foco é fornecer soluções de alta qualidade que atendam às necessidades do usuário e excedam as expectativas.
 
-Sinta-se livre para me enviar um e-mail a qualquer momento.
-luisernani87@gmail.com
+
+
 <div>
-    <a href="https://www.linkedin.com/in/luis-ernani-533ab09a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <i class="fa-sharp fa-solid fa-envelope"></i> luisernani87@gmail.com
+    <a href="https://www.linkedin.com/in/luis-ernani-533ab09a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
 <div>
