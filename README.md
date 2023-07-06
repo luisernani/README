@@ -13,7 +13,7 @@ Meu nome é Luis Ernani e sou desenvolvedor com experiência em React, TypeScrip
     <p align="left">
         <a href="mailto:luisernani87@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email icon" width="50" height="50"/></a>    
         <a href="https://www.linkedin.com/in/luis-ernani-533ab09a/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50"></a>
-        <a href="https://api.whatsapp.com/send?phone=+5515991286508"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111728.png" alt="Ícone do WhatsApp" width="50" height="50"/></a>
+        <a href="https://api.whatsapp.com/send?phone=5515991286508"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111728.png" alt="Ícone do WhatsApp" width="50" height="50"/></a>
     </p>
 </div>
 
